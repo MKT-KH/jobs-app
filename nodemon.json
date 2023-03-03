@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_PASSWORD": "mokhtar",
+        "MONGO_DEFAULT_DATABASE": "job",
+        "MONGO_PASSWORD": ""
+    }
+
+}
